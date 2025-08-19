@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "910097320675",
+    "project_id": "ai-financial-assistant-8f88e",
+    "storage_bucket": "ai-financial-assistant-8f88e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910097320675:android:76bb95a6b03a171e0f93d6",
+        "android_client_info": {
+          "package_name": "com.example.genai_financial_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910097320675-ouafl2f67jljlu8vf3sc1pj2eqq2afh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnevqNEmDSLSNyCX9SBnty97Irvo7BslE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910097320675-ouafl2f67jljlu8vf3sc1pj2eqq2afh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910097320675-3d966s8eqgs3n65or0c33q2t9m995e7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.genaiFinancialAssistant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
